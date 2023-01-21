@@ -1,7 +1,7 @@
 I code with all of them:
 - PHP
 - Python
-- JavaScript
+- TypeScript(JavaScript)
 
 I'm learning them simultaniously, what I aim for this is to learn basic matters to know in coding.
 
