@@ -1,10 +1,12 @@
-I use these depends on my feeling and cases:
+I use these languages:
 
 - PHP 🐘
 - Python 🐍
+- PowerShell
 - TypeScript (JavaScript)
 
-I'm learning them simultaniously, what I aim for this is to learn basic matters to know in coding. 
-It's not sure to be if I have ability to build a nice project, but I will keep learning!
+I learn:
+- C / C++
+- Awk
 
-Currently learning: SQL, Algorithm (but I can't do math well), React, Svelte
+Currently I am into: SQL, competitive programming (but I can't do math well), React, Svelte
